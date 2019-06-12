@@ -23,4 +23,4 @@ var full = first + second;
 
 - [x] HTML
 - [x] CSS
-- ["loading"] JAVASCRIPT
+- [] JAVASCRIPT
